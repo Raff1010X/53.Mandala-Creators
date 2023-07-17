@@ -1,6 +1,6 @@
 ## Mandala-Creators
 
-[Mandala-Creators-WebApp](https://mandalacreators.webdev.priv.pl/) React/Redux, TypeScript, Express :star:
+[Mandala-Creators-WebApp](https://mandalacreators.webdev.priv.pl/) React/Redux, TypeScript, Express, PWA, RWD :star:
 
 Homo Affectus Mandala Creators to wyjątkowa aplikacja webowa, która pozwala Ci na odkrycie swojej kreatywności i tworzenie pięknych, symetrycznych mandali inspirowanych sztuką landart. Z 24 okręgami do dyspozycji, masz nieograniczone możliwości tworzenia. Dodaj od 1 do 32 grafik wektorowych, zmieniając kolory, grubość kreski, rozmiary, rotację i położenie, aby stworzyć unikalne dzieło. Transformuj wykonaną mandalę i zobacz swoją pracę z innej perspektywy. Zapisz swoją mandalę w aplikacji lub pobierz ją na swój komputer. W galerii aplikacji poznaj prace innych użytkowników i dziel się swoimi przemyśleniami na temat Homo Affectus. Sprawdź swoją kreatywność i przeżyj niezwykłą przygodę tworząc własną mandalę z Homo Affectus Mandala Creators.
 
@@ -56,4 +56,8 @@ Homo Affectus Mandala Creators to wyjątkowa aplikacja webowa, która pozwala Ci
 
 <p align="center">
 <img src="./images/13.png" alt="example image" width="80%">
+</p>
+
+<p align="center">
+<img src="./images/14.png" alt="example image" width="80%">
 </p>
